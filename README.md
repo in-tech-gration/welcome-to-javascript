@@ -1,4 +1,4 @@
-# Welcome to JS
+# Welcome to JavaScript
 
 > The best authors and the best JavaScript developers are those who obsess about
 > language, who explore and experiment with language every day and in doing so
