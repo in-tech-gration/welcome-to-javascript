@@ -15,7 +15,7 @@ frustrating!) place to work. This human history of JavaScript is what makes it
 so interesting.
 
 - [simplilearn](https://www.youtube.com/watch?v=6ENWOVc-64c)
-- [wierd history of js](https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb)
+- [weird history of js](https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb)
 - [from Brendan Eich himself](https://www.youtube.com/watch?v=3-9fnjzmXWA)
 - [springboard](https://www.springboard.com/blog/data-science/history-of-javascript/)
 
